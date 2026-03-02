@@ -110,7 +110,7 @@ Read/Write 비율을 변경하며 기존 In-Memory DB의 영속성 유지 방식
 
 Redis 기본 Persistence 전략과 MDB-KCP를 비교하였다.
 
-#### https://github.com/jeongmin99/MDB-KCP/tree/main/experiments/02_chckpoint_comparison/README.md
+#### https://github.com/jeongmin99/MDB-KCP/tree/main/experiments/02_checkpoint_comparison/README.md 
 
 ### 비교 대상
 
