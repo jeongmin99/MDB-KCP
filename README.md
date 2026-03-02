@@ -91,7 +91,7 @@ MDB-KCP는 Kubernetes 환경에서 컨테이너 단위 체크포인트를 수행
 
 Read/Write 비율을 변경하며 기존 In-Memory DB의 영속성 유지 방식이 메모리 사용량에 미치는 영향을 분석하였다.
 
-#### https://github.com/jeongmin99/MDB-KCP/tree/main/experiments/01_cow_memory_overhead/README.md
+#### https://github.com/jeongmin99/MDB-KCP/blob/main/experiments/01_cow_memory_overhead/README.md
 
 ### 결과 요약
 
@@ -110,7 +110,7 @@ Read/Write 비율을 변경하며 기존 In-Memory DB의 영속성 유지 방식
 
 Redis 기본 Persistence 전략과 MDB-KCP를 비교하였다.
 
-#### https://github.com/jeongmin99/MDB-KCP/tree/main/experiments/02_checkpoint_comparison/README.md 
+#### https://github.com/jeongmin99/MDB-KCP/blob/main/experiments/02_checkpoint_comparison/README.md 
 
 ### 비교 대상
 
